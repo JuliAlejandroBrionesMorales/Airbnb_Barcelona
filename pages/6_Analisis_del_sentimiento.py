@@ -12,7 +12,7 @@ st.write('Como podemos observar en la siguientes 2 gráficas, existe una clara t
 col1, col2 = st.columns(2)
 with col1:
     st.markdown('##### TOP_200')
-    st.image('img/8_numero_comentario_top200.png')
+    st.image('img/8_numero%20_comentario_top200.png')
 with col2:
     st.markdown('##### BOTTOM_200')
     st.image('img/9_numero_comentario_bottom_200.png')
