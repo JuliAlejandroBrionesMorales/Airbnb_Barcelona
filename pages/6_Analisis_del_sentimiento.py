@@ -15,7 +15,7 @@ with col1:
     st.image('img/8_comentario_top200.png')
 with col2:
     st.markdown('##### BOTTOM_200')
-    st.image('img/9_numero_comentario_bottom_200.png')
+    st.image('img/9_comentario_bottom200.png')
 
 
 st.markdown('#### <span style="color:orange;"> Utilización de **CountVectorizer** - reviews</span>', unsafe_allow_html=True)
