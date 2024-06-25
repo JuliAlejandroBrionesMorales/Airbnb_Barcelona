@@ -1,0 +1,11 @@
+2024-06-14 18:35:16,381:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:35:16,381:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:35:16,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:35:16,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:35:19,219:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/pages/app.py:49: DtypeWarning: Columns (4) have mixed types. Specify dtype option on import or set low_memory=False.
+  return pd.read_csv(r'/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/data/1. data_sin_limpiar/calendar.csv.gz')
+

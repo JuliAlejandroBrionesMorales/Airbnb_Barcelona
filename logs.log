@@ -1,0 +1,669 @@
+2024-06-10 17:05:40,798:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-10 17:05:40,798:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-10 17:05:40,798:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-10 17:05:40,798:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-10 17:05:42,922:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/app.py:45: DtypeWarning: Columns (4) have mixed types. Specify dtype option on import or set low_memory=False.
+  return pd.read_csv(r'/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/data/1. data_sin_limpiar/calendar.csv.gz')
+
+2024-06-10 17:22:08,346:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/app.py:130: DtypeWarning:
+
+Columns (4) have mixed types. Specify dtype option on import or set low_memory=False.
+
+
+2024-06-10 17:23:16,615:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/app.py:130: DtypeWarning:
+
+Columns (4) have mixed types. Specify dtype option on import or set low_memory=False.
+
+
+2024-06-11 17:27:26,273:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-11 17:27:26,273:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-11 17:27:26,273:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-11 17:27:26,273:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-11 17:27:28,222:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/app.py:45: DtypeWarning: Columns (4) have mixed types. Specify dtype option on import or set low_memory=False.
+  return pd.read_csv(r'/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/data/1. data_sin_limpiar/calendar.csv.gz')
+
+2024-06-14 18:29:50,475:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:29:50,475:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:29:50,475:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:29:50,475:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:29:54,279:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/app.py:49: DtypeWarning: Columns (4) have mixed types. Specify dtype option on import or set low_memory=False.
+  return pd.read_csv(r'/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/data/1. data_sin_limpiar/calendar.csv.gz')
+
+2024-06-14 18:39:00,618:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:39:00,618:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:39:00,618:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:39:00,618:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:39:05,163:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/app.py:49: DtypeWarning: Columns (4) have mixed types. Specify dtype option on import or set low_memory=False.
+  return pd.read_csv(r'/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/data/1. data_sin_limpiar/calendar.csv.gz')
+
+2024-06-14 18:42:50,197:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:42:50,198:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:42:50,198:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:42:50,198:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 18:42:53,870:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/Pagina_Principal.py:49: DtypeWarning: Columns (4) have mixed types. Specify dtype option on import or set low_memory=False.
+  return pd.read_csv(r'/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/data/1. data_sin_limpiar/calendar.csv.gz')
+
+2024-06-14 19:24:28,072:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 19:24:28,072:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 19:24:28,073:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 19:24:28,073:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 19:24:29,988:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/app.py:49: DtypeWarning: Columns (4) have mixed types. Specify dtype option on import or set low_memory=False.
+  return pd.read_csv(r'/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/data/1. data_sin_limpiar/calendar.csv.gz')
+
+2024-06-14 19:25:09,930:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 19:25:09,931:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 19:25:09,931:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 19:25:09,931:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 19:25:11,920:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/Pagina_Principal.py:49: DtypeWarning: Columns (4) have mixed types. Specify dtype option on import or set low_memory=False.
+  return pd.read_csv(r'/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/data/1. data_sin_limpiar/calendar.csv.gz')
+
+2024-06-14 19:27:07,581:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 19:27:07,581:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 19:27:07,581:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 19:27:07,581:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-14 19:27:09,633:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/Pagina_inicio.py:49: DtypeWarning: Columns (4) have mixed types. Specify dtype option on import or set low_memory=False.
+  return pd.read_csv(r'/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/data/1. data_sin_limpiar/calendar.csv.gz')
+
+2024-06-21 19:04:33,933:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-21 19:04:33,933:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-21 19:04:33,933:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-21 19:04:33,933:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-21 19:04:34,076:INFO:Initializing load_model()
+2024-06-21 19:04:34,077:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/Predictor_azure/model.pkl, platform=None, authentication=None, verbose=True)
+2024-06-21 19:16:08,299:INFO:Initializing load_model()
+2024-06-21 19:16:08,300:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/Predictor_azure/model.pkl, platform=None, authentication=None, verbose=True)
+2024-06-21 19:16:18,313:INFO:Initializing load_model()
+2024-06-21 19:16:18,313:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/Predictor_azure/model, platform=None, authentication=None, verbose=True)
+2024-06-21 19:26:53,649:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/Introduccion.py:38: DtypeWarning: Columns (4) have mixed types. Specify dtype option on import or set low_memory=False.
+  return pd.read_csv(r'/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/data/1. data_sin_limpiar/calendar.csv.gz')
+
+2024-06-21 19:26:55,726:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-21 19:26:55,726:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-21 19:26:55,726:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-21 19:26:55,727:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-21 19:29:16,864:INFO:Initializing predict_model()
+2024-06-21 19:29:16,867:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x10f1f1a50>, estimator=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/Predictor_azure/model.pkl, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x13ebea560>)
+2024-06-21 19:29:16,867:INFO:Checking exceptions
+2024-06-21 19:29:16,867:INFO:Preloading libraries
+2024-06-21 20:36:01,341:INFO:Initializing predict_model()
+2024-06-21 20:36:01,341:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x11aa02200>, estimator=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/Predictor_azure/model.pkl, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x11b02bbe0>)
+2024-06-21 20:36:01,341:INFO:Checking exceptions
+2024-06-21 20:36:01,341:INFO:Preloading libraries
+2024-06-23 12:22:22,142:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-23 12:22:22,143:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-23 12:22:22,143:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-23 12:22:22,143:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 17:38:02,810:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 17:38:02,811:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 17:38:02,811:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 17:38:02,811:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 17:39:26,979:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 17:39:26,980:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 17:39:26,980:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 17:39:26,980:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 17:42:35,421:INFO:Initializing predict_model()
+2024-06-24 17:42:35,421:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x12acbec20>, estimator=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor.pkl, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x15df930a0>)
+2024-06-24 17:42:35,421:INFO:Checking exceptions
+2024-06-24 17:42:35,421:INFO:Preloading libraries
+2024-06-24 17:44:58,061:INFO:Initializing predict_model()
+2024-06-24 17:44:58,062:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x28e45a7d0>, estimator=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor.pkl, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x12aaee050>)
+2024-06-24 17:44:58,062:INFO:Checking exceptions
+2024-06-24 17:44:58,062:INFO:Preloading libraries
+2024-06-24 17:47:56,619:INFO:Initializing load_model()
+2024-06-24 17:47:56,619:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor.pkl, platform=None, authentication=None, verbose=True)
+2024-06-24 17:48:20,220:INFO:Initializing load_model()
+2024-06-24 17:48:20,221:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor.pkl, platform=None, authentication=None, verbose=True)
+2024-06-24 17:48:31,429:INFO:Initializing load_model()
+2024-06-24 17:48:31,430:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:49:28,761:INFO:Initializing predict_model()
+2024-06-24 17:49:28,762:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x28e3008b0>, estimator=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x15dfcf640>)
+2024-06-24 17:49:28,762:INFO:Checking exceptions
+2024-06-24 17:49:28,762:INFO:Preloading libraries
+2024-06-24 17:49:44,770:INFO:Initializing load_model()
+2024-06-24 17:49:44,770:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:51:09,202:INFO:Initializing load_model()
+2024-06-24 17:51:09,203:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:51:10,014:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [17:51:10] WARNING: /Users/runner/work/xgboost/xgboost/src/gbm/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-06-24 17:51:10,325:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 17:51:12,486:INFO:Initializing load_model()
+2024-06-24 17:51:12,486:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:51:12,494:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 17:51:15,398:INFO:Initializing load_model()
+2024-06-24 17:51:15,398:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:51:15,406:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 17:51:15,432:INFO:Initializing predict_model()
+2024-06-24 17:51:15,432:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x15dfa7ac0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['minimum_nights', 'bedrooms',
+                                             'beds', 'bathrooms'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['neighbourhood_cleansed',
+                                             'room_type'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapp...
+                              feature_types=None, gamma=None, grow_policy=None,
+                              importance_type=None,
+                              interaction_constraints=None, learning_rate=None,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=None, max_leaves=None,
+                              min_child_weight=None, missing=nan,
+                              monotone_constraints=None, multi_strategy=None,
+                              n_estimators=None, n_jobs=-1,
+                              num_parallel_tree=None, random_state=1488, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x17f3775b0>)
+2024-06-24 17:51:15,432:INFO:Checking exceptions
+2024-06-24 17:51:15,432:INFO:Preloading libraries
+2024-06-24 17:51:15,434:INFO:Set up data.
+2024-06-24 17:51:15,439:INFO:Set up index.
+2024-06-24 17:55:51,476:INFO:Initializing load_model()
+2024-06-24 17:55:51,476:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:55:51,491:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 17:55:53,815:INFO:Initializing load_model()
+2024-06-24 17:55:53,815:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:55:53,824:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 17:55:53,845:INFO:Initializing predict_model()
+2024-06-24 17:55:53,845:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x15dfa7730>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['minimum_nights', 'bedrooms',
+                                             'beds', 'bathrooms'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['neighbourhood_cleansed',
+                                             'room_type'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapp...
+                              feature_types=None, gamma=None, grow_policy=None,
+                              importance_type=None,
+                              interaction_constraints=None, learning_rate=None,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=None, max_leaves=None,
+                              min_child_weight=None, missing=nan,
+                              monotone_constraints=None, multi_strategy=None,
+                              n_estimators=None, n_jobs=-1,
+                              num_parallel_tree=None, random_state=1488, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x17f375120>)
+2024-06-24 17:55:53,845:INFO:Checking exceptions
+2024-06-24 17:55:53,845:INFO:Preloading libraries
+2024-06-24 17:55:53,846:INFO:Set up data.
+2024-06-24 17:55:53,849:INFO:Set up index.
+2024-06-24 17:55:58,552:INFO:Initializing load_model()
+2024-06-24 17:55:58,552:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:55:58,560:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 17:55:58,631:INFO:Initializing load_model()
+2024-06-24 17:55:58,631:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:55:58,638:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 17:55:58,646:INFO:Initializing predict_model()
+2024-06-24 17:55:58,646:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x28e45a770>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['minimum_nights', 'bedrooms',
+                                             'beds', 'bathrooms'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['neighbourhood_cleansed',
+                                             'room_type'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapp...
+                              feature_types=None, gamma=None, grow_policy=None,
+                              importance_type=None,
+                              interaction_constraints=None, learning_rate=None,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=None, max_leaves=None,
+                              min_child_weight=None, missing=nan,
+                              monotone_constraints=None, multi_strategy=None,
+                              n_estimators=None, n_jobs=-1,
+                              num_parallel_tree=None, random_state=1488, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x17f376050>)
+2024-06-24 17:55:58,646:INFO:Checking exceptions
+2024-06-24 17:55:58,646:INFO:Preloading libraries
+2024-06-24 17:55:58,646:INFO:Set up data.
+2024-06-24 17:55:58,647:INFO:Set up index.
+2024-06-24 17:56:02,598:INFO:Initializing load_model()
+2024-06-24 17:56:02,599:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:56:02,612:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 17:56:03,439:INFO:Initializing load_model()
+2024-06-24 17:56:03,439:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:56:03,448:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 17:56:06,057:INFO:Initializing load_model()
+2024-06-24 17:56:06,058:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:56:06,068:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 17:56:07,002:INFO:Initializing load_model()
+2024-06-24 17:56:07,002:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:56:07,010:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 17:56:07,606:INFO:Initializing load_model()
+2024-06-24 17:56:07,606:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 17:56:07,612:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 17:56:07,631:INFO:Initializing predict_model()
+2024-06-24 17:56:07,632:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x17f342e90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['minimum_nights', 'bedrooms',
+                                             'beds', 'bathrooms'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['neighbourhood_cleansed',
+                                             'room_type'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapp...
+                              feature_types=None, gamma=None, grow_policy=None,
+                              importance_type=None,
+                              interaction_constraints=None, learning_rate=None,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=None, max_leaves=None,
+                              min_child_weight=None, missing=nan,
+                              monotone_constraints=None, multi_strategy=None,
+                              n_estimators=None, n_jobs=-1,
+                              num_parallel_tree=None, random_state=1488, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x17f377520>)
+2024-06-24 17:56:07,632:INFO:Checking exceptions
+2024-06-24 17:56:07,632:INFO:Preloading libraries
+2024-06-24 17:56:07,632:INFO:Set up data.
+2024-06-24 17:56:07,635:INFO:Set up index.
+2024-06-24 18:11:04,613:INFO:Initializing load_model()
+2024-06-24 18:11:04,615:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 18:11:04,647:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 18:15:00,972:INFO:Initializing load_model()
+2024-06-24 18:15:00,973:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 18:15:00,998:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 18:15:19,711:INFO:Initializing load_model()
+2024-06-24 18:15:19,711:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 18:15:19,723:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 18:17:27,155:INFO:Initializing load_model()
+2024-06-24 18:17:27,156:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 18:17:27,166:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 18:22:39,752:INFO:Initializing load_model()
+2024-06-24 18:22:39,753:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 18:22:39,761:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 18:23:16,386:INFO:Initializing load_model()
+2024-06-24 18:23:16,387:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 18:23:16,393:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 18:25:45,773:INFO:Initializing load_model()
+2024-06-24 18:25:45,773:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 18:25:45,784:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 18:28:53,519:INFO:Initializing load_model()
+2024-06-24 18:28:53,520:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 18:28:53,528:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 18:29:46,537:INFO:Initializing load_model()
+2024-06-24 18:29:46,537:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 18:29:46,544:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 18:30:12,718:INFO:Initializing load_model()
+2024-06-24 18:30:12,719:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 18:30:12,735:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 18:30:22,060:INFO:Initializing load_model()
+2024-06-24 18:30:22,061:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 18:30:22,069:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 18:30:22,090:INFO:Initializing predict_model()
+2024-06-24 18:30:22,090:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x28e302a40>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['minimum_nights', 'bedrooms',
+                                             'beds', 'bathrooms'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['neighbourhood_cleansed',
+                                             'room_type'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapp...
+                              feature_types=None, gamma=None, grow_policy=None,
+                              importance_type=None,
+                              interaction_constraints=None, learning_rate=None,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=None, max_leaves=None,
+                              min_child_weight=None, missing=nan,
+                              monotone_constraints=None, multi_strategy=None,
+                              n_estimators=None, n_jobs=-1,
+                              num_parallel_tree=None, random_state=1488, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x15dfd0e50>)
+2024-06-24 18:30:22,091:INFO:Checking exceptions
+2024-06-24 18:30:22,091:INFO:Preloading libraries
+2024-06-24 18:30:22,094:INFO:Set up data.
+2024-06-24 18:30:22,102:INFO:Set up index.
+2024-06-24 18:30:46,767:INFO:Initializing load_model()
+2024-06-24 18:30:46,768:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 18:30:46,782:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 18:30:48,495:INFO:Initializing load_model()
+2024-06-24 18:30:48,496:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 18:30:48,505:WARNING:/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '70.0.0', 'pycaret': '3.3.2', 'IPython': '8.25.0', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.0'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 18:30:48,530:INFO:Initializing predict_model()
+2024-06-24 18:30:48,531:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x28e493400>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['minimum_nights', 'bedrooms',
+                                             'beds', 'bathrooms'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['neighbourhood_cleansed',
+                                             'room_type'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapp...
+                              feature_types=None, gamma=None, grow_policy=None,
+                              importance_type=None,
+                              interaction_constraints=None, learning_rate=None,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=None, max_leaves=None,
+                              min_child_weight=None, missing=nan,
+                              monotone_constraints=None, multi_strategy=None,
+                              n_estimators=None, n_jobs=-1,
+                              num_parallel_tree=None, random_state=1488, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x15dfe5750>)
+2024-06-24 18:30:48,531:INFO:Checking exceptions
+2024-06-24 18:30:48,532:INFO:Preloading libraries
+2024-06-24 18:30:48,532:INFO:Set up data.
+2024-06-24 18:30:48,534:INFO:Set up index.
+2024-06-24 19:36:12,774:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 19:36:12,779:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 19:36:12,779:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 19:36:12,779:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 20:02:45,589:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 20:02:45,590:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 20:02:45,590:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 20:02:45,590:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-24 20:02:45,694:INFO:Initializing load_model()
+2024-06-24 20:02:45,694:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 20:03:21,154:INFO:Initializing load_model()
+2024-06-24 20:03:21,155:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 20:03:21,488:WARNING:/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/entorno/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [20:03:21] WARNING: /Users/runner/work/xgboost/xgboost/src/gbm/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-06-24 20:03:21,703:WARNING:/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.12.3', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.4.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '6.0.0', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 20:03:23,485:INFO:Initializing load_model()
+2024-06-24 20:03:23,486:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 20:03:23,491:WARNING:/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.12.3', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.4.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '6.0.0', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 20:03:23,512:INFO:Initializing predict_model()
+2024-06-24 20:03:23,513:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x28457df60>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['minimum_nights', 'bedrooms',
+                                             'beds', 'bathrooms'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['neighbourhood_cleansed',
+                                             'room_type'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapp...
+                              feature_types=None, gamma=None, grow_policy=None,
+                              importance_type=None,
+                              interaction_constraints=None, learning_rate=None,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=None, max_leaves=None,
+                              min_child_weight=None, missing=nan,
+                              monotone_constraints=None, multi_strategy=None,
+                              n_estimators=None, n_jobs=-1,
+                              num_parallel_tree=None, random_state=1488, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x2845b35b0>)
+2024-06-24 20:03:23,513:INFO:Checking exceptions
+2024-06-24 20:03:23,513:INFO:Preloading libraries
+2024-06-24 20:03:23,514:INFO:Set up data.
+2024-06-24 20:03:23,516:INFO:Set up index.
+2024-06-24 20:05:56,669:INFO:Initializing load_model()
+2024-06-24 20:05:56,669:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-24 20:05:56,677:WARNING:/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.12.3', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.4.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '6.0.0', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-06-24 20:06:00,838:WARNING:/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/pages/3_Analisis_descriptivo.py:23: DtypeWarning:
+
+Columns (4) have mixed types. Specify dtype option on import or set low_memory=False.
+
+
+2024-06-25 19:51:42,983:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-25 19:51:42,984:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-25 19:51:42,984:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-25 19:51:42,984:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-25 19:51:43,074:INFO:Initializing load_model()
+2024-06-25 19:51:43,074:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-25 19:51:43,148:WARNING:/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/entorno/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning:
+
+[19:51:43] WARNING: /Users/runner/work/xgboost/xgboost/src/gbm/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+configuration generated by an older version of XGBoost, please export the model by calling
+`Booster.save_model` from that version first, then load it back in current version. See:
+
+    https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+
+for more details about differences between saving model and serializing.
+
+
+
+2024-06-25 19:51:43,186:WARNING:/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning:
+
+Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.12.3', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.4.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '6.0.0', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+
+
+2024-06-25 19:51:44,430:INFO:Initializing load_model()
+2024-06-25 19:51:44,430:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-25 19:51:44,441:WARNING:/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning:
+
+Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.12.3', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.4.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '6.0.0', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+
+
+2024-06-25 19:51:44,465:INFO:Initializing predict_model()
+2024-06-25 19:51:44,465:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x2804448b0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['minimum_nights', 'bedrooms',
+                                             'beds', 'bathrooms'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['neighbourhood_cleansed',
+                                             'room_type'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapp...
+                              feature_types=None, gamma=None, grow_policy=None,
+                              importance_type=None,
+                              interaction_constraints=None, learning_rate=None,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=None, max_leaves=None,
+                              min_child_weight=None, missing=nan,
+                              monotone_constraints=None, multi_strategy=None,
+                              n_estimators=None, n_jobs=-1,
+                              num_parallel_tree=None, random_state=1488, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x315eb3be0>)
+2024-06-25 19:51:44,465:INFO:Checking exceptions
+2024-06-25 19:51:44,465:INFO:Preloading libraries
+2024-06-25 19:51:44,465:INFO:Set up data.
+2024-06-25 19:51:44,468:INFO:Set up index.
+2024-06-25 19:59:02,519:INFO:Initializing load_model()
+2024-06-25 19:59:02,519:INFO:load_model(model_name=/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/airbnb_barcelona_predictor, platform=None, authentication=None, verbose=True)
+2024-06-25 19:59:02,530:WARNING:/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/entorno/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning:
+
+Version mismatch:
+current: {'deps_info': {'pip': '24.1', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.12.3', 'ipywidgets': '8.1.3', 'tqdm': '4.66.4', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.4.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '6.0.0', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.11', 'machine': 'arm64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+
+
