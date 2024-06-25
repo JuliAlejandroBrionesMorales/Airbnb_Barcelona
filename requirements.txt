@@ -140,3 +140,4 @@ xyzservices==2024.6.0
 yarg==0.1.9
 yellowbrick==1.5
 zipp==3.19.2
+feather-format==0.4.1
