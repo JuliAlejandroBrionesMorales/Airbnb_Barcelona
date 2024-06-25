@@ -12,10 +12,10 @@ st.write('Como podemos observar en la siguientes 2 gráficas, existe una clara t
 col1, col2 = st.columns(2)
 with col1:
     st.markdown('##### TOP_200')
-    st.image('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/img/8_numero comentarioi top200.png')
+    st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/8_numero%20comentarioi%20top200.png')
 with col2:
     st.markdown('##### BOTTOM_200')
-    st.image('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/img/9_numero comentario bottom_200.png')
+    st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/9_numero%20comentario%20bottom_200.png')
 
 
 st.markdown('#### <span style="color:orange;"> Utilización de **CountVectorizer** - reviews</span>', unsafe_allow_html=True)
@@ -24,11 +24,11 @@ col1, col2 = st.columns(2)
 with col1:
     st.markdown('##### TOP_200')
     st.write('Las palabras con más frecuencia en top_200 son: "apartment"-"great"-"very"-"stay"-"location"-"perfect"- "great"...')
-    st.image('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/img/wordcloud1.png')
+    st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/wordcloud1.png')
 with col2:
     st.markdown('##### BOTTOM_200')
     st.write('Mientras que las palabras más frecuentes en bottom_200 son: "great"-"place"-"host"-"but"-"had"-"todo"...')
-    st.image('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/img/wordcloud2.png')
+    st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/wordcloud2.png')
 
 
 st.markdown('#### <span style="color:orange;">Estudio de idiomas - description</span>', unsafe_allow_html=True)
@@ -36,10 +36,10 @@ st.write('Como podemos observar en la siguientes 2 gráficas, existe una tendenc
 col1, col2 = st.columns(2)
 with col1:
     st.markdown('##### TOP_200')
-    st.image('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/img/10_lenguage_description_top200.png')
+    st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/10_lenguage_description_top200.png')
 with col2:
     st.markdown('##### BOTTOM_200')
-    st.image('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/img/11_language_description_bottom200.png')
+    st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/11_language_description_bottom200.png')
 
 
 st.markdown('#### <span style="color:orange;">Utilización de **CountVectorizer** - description</span>', unsafe_allow_html=True)
@@ -47,9 +47,9 @@ col1, col2 = st.columns(2)
 with col1:
     st.markdown('##### TOP_200')
     st.write('Se puede ver como en el dataframe top_200 existe una clara tendencia hacia descripciones orientadas al alquiler de apartamentos, por palabras como "apartments"-"home"...')
-    st.image('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/img/wordcloud3.png')
+    st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/wordcloud3.png')
 with col2:
     st.markdown('##### BOTTOM_200')
     st.write('Mientras que en dataframe bottom_200 existe una clara tendencia hacia al alquiler de habitaciones por palabra como "room".')
-    st.image('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/img/wordcloud4.png')
+    st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/wordcloud4.png')
 st.write('Es conveniente establecer una descripción acorde al tipo de propiedad que se pretende alquilar. Antes de establecer una descripción se recomienda hacer una estudio de propiedades similares a la suya para poder sacar conclusiones respecto a tipo de descripción que se tiene que establecer.')

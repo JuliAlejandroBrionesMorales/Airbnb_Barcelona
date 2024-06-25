@@ -28,7 +28,7 @@ with col2:
     
 st.markdown('##### <span style="color:orange;">Función genérica utilizada para arreglar outliers</span>', unsafe_allow_html=True)
 st.write('El objetivo principal de esta función es arreglar los valores atípicos o outliers. Identificamos los valores a atípicos como aquellos que son mayores que los bigotes (máximos y mínimos) del diagrama de caja y bigotes. Para ello, este función sustituye, estos valores atípicos por los valores de máximo o mínimo del diagrama de caja y bigotes.')
-st.image('/Users/juliobrionesmorales/Documents/1. FORMACION/3. DATA ANALYTICS /PROYECTOS_BOOTCAMP/PROYECTO FINAL 2/img/3_funcion_outliers.png',width=1000)
+st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/3_funcion_outliers.png',width=1000)
 
 st.write('')
 

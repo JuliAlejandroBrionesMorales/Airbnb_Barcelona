@@ -18,7 +18,7 @@ st.set_page_config(page_title='Proyecto 2: Barcelona', layout='wide', page_icon=
 st.title('AIRBNB -BARCELONA')
 col1, col2 = st.columns(2)
 with col1:
-    st.image('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/img/1_barcelona.jpeg', use_column_width=True)
+    st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/1_barcelona.jpeg', use_column_width=True)
 with col2:
     st.write('')
     st.write('')
