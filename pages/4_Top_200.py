@@ -49,22 +49,22 @@ st.markdown('#### GRAFICAS COMPARATIVAS')
 # GRAFICA 1
 st.markdown('**1. Número de Tipo de Propiedades**')
 st.write('Estas gráficas muestran como las mejores y peores propiedades siguen una tendencia distinta en cuanto al alquiler de las tipo de propiedades.')
-st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/4_comparacion_tipos_propiedades.png')
+st.image('img/4_comparacion_tipos_propiedades.png')
 
 # GRAFICA 2
 st.markdown('**2. Número de Tipo de Habitaciones**')
 st.write('En esta segunda gráfica confirma como las mejores propiedades siguen una tendencia de alquiler hacia casas enteras, mientrás que las peores tienen una tendencia hacia el alquiler habitaciones privadas.')
-st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/5_comparacion_tipo_habitaciones.png')
+st.image('img/5_comparacion_tipo_habitaciones.png')
 
 # GRAFICA 3
 st.markdown('**3. Número Promedio de Noches Mínimas**')
 st.write('En esta tercera gráfica podemos ver como las mejores propiedades tienen un número de noches promedio mucho más alto que las propiedades con peor valoración de acuerdo a nuestro analisis.')
-st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/6_comparacion_noches_minimas.png')
+st.image('img/6_comparacion_noches_minimas.png')
 
 # GRAFICA 4
 st.markdown('**4. Comparación de Puntuaje de Limpieza**')
 st.write('En esta última gráfica, también se puede observar como las comparaciones de los puntuajes de limpieza por grupos vecinales es mucho mayor que las peores viviendas.')
-st.image('https://github.com/JuliAlejandroBrionesMorales/Airbnb_Barcelona/blob/master/img/7_comparacion_limpieza_barrio.png')
+st.image('img/7_comparacion_limpieza_barrio.png')
 
 st.write('Es imporatante resaltar la gran diferencia que existe entre los tipos de propiedades alquiladas para los 200 mejores y 200 peores viviendas de acuerdo a nuestro análisis. Mientras la primera tiene una tendencia por el alquiler de viviendas o apartamentos entero, y la segunda tiene una tendencia por alquilar habitaciones por pocos días.')
 st.write('Es importante resaltar la gran diferencia que existe entre el alquiler de los tipos de propiedades entre los 200 mejores y peores viviendas.')
