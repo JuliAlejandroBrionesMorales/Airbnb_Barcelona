@@ -50,7 +50,7 @@ st.markdown('#### GRAFICAS COMPARATIVAS')
 # GRAFICA 1
 st.markdown('**1. Número de Tipo de Propiedades**')
 st.write('Estas gráficas muestran como las mejores y peores propiedades siguen una tendencia distinta en cuanto al alquiler de las tipo de propiedades.')
-with open('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/HTML/9_comparacion_propiedades.html', 'r') as file:
+with open('HTML/9_comparacion_propiedades.html', 'r') as file:
     html_content = file.read()
 components.html(html_content, height=500) 
 
@@ -58,21 +58,21 @@ components.html(html_content, height=500)
 # GRAFICA 2
 st.markdown('**2. Número de Tipo de Habitaciones**')
 st.write('En esta segunda gráfica confirma como las mejores propiedades siguen una tendencia de alquiler hacia casas enteras, mientrás que las peores tienen una tendencia hacia el alquiler habitaciones privadas.')
-with open('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/HTML/10_comparacion_habitaciones.html', 'r') as file:
+with open('HTML/10_comparacion_habitaciones.html', 'r') as file:
     html_content = file.read()
 components.html(html_content, height=500) 
 
 # GRAFICA 3
 st.markdown('**3. Número Promedio de Noches Mínimas**')
 st.write('En esta tercera gráfica podemos ver como las mejores propiedades tienen un número de noches promedio mucho más alto que las propiedades con peor valoración de acuerdo a nuestro analisis.')
-with open('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/HTML/11_comparacion_noches_minimas.html', 'r') as file:
+with open('HTML/11_comparacion_noches_minimas.html', 'r') as file:
     html_content = file.read()
 components.html(html_content, height=500) 
 
 # GRAFICA 4
 st.markdown('**4. Comparación de Puntuaje de Limpieza**')
 st.write('En esta última gráfica, también se puede observar como las comparaciones de los puntuajes de limpieza por grupos vecinales es mucho mayor que las peores viviendas.')
-with open('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/HTML/12_comparacion_limpieza.html', 'r') as file:
+with open('HTML/12_comparacion_limpieza.html', 'r') as file:
     html_content = file.read()
 components.html(html_content, height=500) 
 
