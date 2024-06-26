@@ -24,8 +24,8 @@ st.markdown('#### <span style="color:orange;">Mapas por zonas de las mejores y p
 st.write('Los siguiente mapas muestran la distribución de las 200 mejores y peores viviendas en Barcelona de acuerdo a nuestro análisis. Se puede ver ligeras diferencias entre las zonas de población de los 2 dataframes.')
 
 # Cargamos los dataframes de top200
-top_200 = pd.read_csv(r'/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/data/4. top200/top_200.csv')
-bottom_200 = pd.read_csv(r'/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/data/4. top200/bottom_200.csv')
+top_200 = pd.read_csv(r'/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/data/1. top200/top_200.csv')
+bottom_200 = pd.read_csv(r'/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/data/1. top200/bottom_200.csv')
 col1, col2 = st.columns(2)
 # En la primera columna, mostrar el mapa para el top_200
 with col1:
