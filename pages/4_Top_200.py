@@ -5,6 +5,7 @@ import pandas as pd
 import folium
 from folium.plugins import FastMarkerCluster
 from streamlit_folium import folium_static
+import streamlit.components.v1 as components
 
 
 # Configuración de la página de trabajo
@@ -49,22 +50,31 @@ st.markdown('#### GRAFICAS COMPARATIVAS')
 # GRAFICA 1
 st.markdown('**1. Número de Tipo de Propiedades**')
 st.write('Estas gráficas muestran como las mejores y peores propiedades siguen una tendencia distinta en cuanto al alquiler de las tipo de propiedades.')
-st.image('img/4_comparacion_tipos_propiedades.png')
+with open('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/HTML/9_comparacion_propiedades.html', 'r') as file:
+    html_content = file.read()
+components.html(html_content, height=500) 
+
 
 # GRAFICA 2
 st.markdown('**2. Número de Tipo de Habitaciones**')
 st.write('En esta segunda gráfica confirma como las mejores propiedades siguen una tendencia de alquiler hacia casas enteras, mientrás que las peores tienen una tendencia hacia el alquiler habitaciones privadas.')
-st.image('img/5_comparacion_tipo_habitaciones.png')
+with open('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/HTML/10_comparacion_habitaciones.html', 'r') as file:
+    html_content = file.read()
+components.html(html_content, height=500) 
 
 # GRAFICA 3
 st.markdown('**3. Número Promedio de Noches Mínimas**')
 st.write('En esta tercera gráfica podemos ver como las mejores propiedades tienen un número de noches promedio mucho más alto que las propiedades con peor valoración de acuerdo a nuestro analisis.')
-st.image('img/6_comparacion_noches_minimas.png')
+with open('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/HTML/11_comparacion_noches_minimas.html', 'r') as file:
+    html_content = file.read()
+components.html(html_content, height=500) 
 
 # GRAFICA 4
 st.markdown('**4. Comparación de Puntuaje de Limpieza**')
 st.write('En esta última gráfica, también se puede observar como las comparaciones de los puntuajes de limpieza por grupos vecinales es mucho mayor que las peores viviendas.')
-st.image('img/7_comparacion_limpieza_barrio.png')
+with open('/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/HTML/12_comparacion_limpieza.html', 'r') as file:
+    html_content = file.read()
+components.html(html_content, height=500) 
 
 st.write('Es imporatante resaltar la gran diferencia que existe entre los tipos de propiedades alquiladas para los 200 mejores y 200 peores viviendas de acuerdo a nuestro análisis. Mientras la primera tiene una tendencia por el alquiler de viviendas o apartamentos entero, y la segunda tiene una tendencia por alquilar habitaciones por pocos días.')
 st.write('Es importante resaltar la gran diferencia que existe entre el alquiler de los tipos de propiedades entre los 200 mejores y peores viviendas.')

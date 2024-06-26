@@ -16,7 +16,7 @@ col1, col2= st.columns(2)
 with col1:
      # Valores nulos Calendar
     with st.expander("DF_CALENDAR"):
-        st.image('/img/12_nulos_calendar.png')
+        st.image('img/12_nulos_calendar.png')
         st.write('Reparamos los valores nulos de dataframe calendar, eliminando la columna **ajusted_price** debido a que tiene un gran porcentaje de valores nulos.')
 with col2:
     st.write('')
