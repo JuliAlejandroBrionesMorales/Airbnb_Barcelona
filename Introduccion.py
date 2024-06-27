@@ -32,21 +32,18 @@ with col2:
 
 
 # -------------------- CARGAMOS BBDD ------------#
-# Para poder abrir los archivos con la url
-import ssl
-ssl._create_default_https_context = ssl._create_unverified_context
 
 @st.cache_data
 def load_df_calendar():
-    return pd.read_csv(r'https://data.insideairbnb.com/spain/catalonia/barcelona/2024-03-20/data/calendar.csv.gz')
+    return pd.read_csv(r'data/0_data_introduccion/df_calendar.csv')
 
 @st.cache_data
 def load_df_listings():
-    return pd.read_csv('https://data.insideairbnb.com/spain/catalonia/barcelona/2024-03-20/data/listings.csv.gz')
+    return pd.read_csv('data/0_data_introduccion/df_listings.csv')
 
 @st.cache_data
 def load_df_reviews():
-    return pd.read_csv (r'https://data.insideairbnb.com/spain/catalonia/barcelona/2024-03-20/data/reviews.csv.gz')
+    return pd.read_csv (r'data/0_data_introduccion/df_reviews.csv')
 
 # Cargar los DataFrames usando las funciones cacheadas para hacer menos pesadas cargar los dataframes
 df_calendar = load_df_calendar()
@@ -85,13 +82,13 @@ elif show_reviews:
 # Usar un contenedor para mostrar el dataframe seleccionado en todo el ancho
 with st.container():
     if display_df == "DF_CALENDAR":
-        st.dataframe(df_calendar.head(100))
+        st.dataframe(df_calendar.head(80))
         st.write(df_calendar.shape)
     elif display_df == "DF_LISTINGS":
-        st.dataframe(df_listings.head(100))
+        st.dataframe(df_listings.head(80))
         st.write(df_listings.shape)
     elif display_df == "DF_REVIEWS":
-        st.dataframe(df_reviews.head(100))
+        st.dataframe(df_reviews.head(80))
         st.write(df_reviews.shape)
 
 
