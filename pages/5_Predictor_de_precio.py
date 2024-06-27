@@ -7,7 +7,7 @@ from pycaret.regression import load_model, predict_model
 st.set_page_config(page_title='Proyecto 2: Barcelona', layout='wide', page_icon='🇪🇸')
 
 # Cargamos el modelo predictor de precio
-model_path = r'/Users/juliobrionesmorales/Documents/GitHub/Airbnb_Barcelona/airbnb_barcelona_predictor'
+model_path = r'airbnb_barcelona_predictor.pkl'
 model = load_model(model_path)
 
 st.title('PREDICTOR DE PRECIO AIRBNB')
