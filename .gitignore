@@ -1,5 +1,4 @@
 entorno 
 /entorno
 data/**/*.csv.gz
-data/**/*.csv
 entorno/lib/python3.10/site-packages/llvmlite/binding/libllvmlite.dylib
